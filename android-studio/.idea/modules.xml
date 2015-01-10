@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IOIOLib/IOIOLib.iml" filepath="$PROJECT_DIR$/IOIOLib/IOIOLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOIOLibBT/IOIOLibBT.iml" filepath="$PROJECT_DIR$/IOIOLibBT/IOIOLibBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/android studio.iml" filepath="$PROJECT_DIR$/android studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-studio.iml" filepath="$PROJECT_DIR$/android-studio.iml" />
     </modules>
   </component>
 </project>
